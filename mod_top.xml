@@ -3,15 +3,15 @@
     <name>Топ по сумме пожертвований</name>
     <author>Эрик Королев</author>
     <version>1.0.0</version>
-    <description>Модуль, который отображает список учеников с сортировкой по убыванию суммы пожертвований.</description>
+    <description>Модуль отображает топ учеников по сумме пожертвований.</description>
     <files>
         <filename>mod_top.xml</filename>
         <filename module="mod_top">mod_top.php</filename>
 		<filename>index.html</filename>
 		<filename>helper.php</filename>
-		<filename>js/jquery.js</filename>
         <filename>tmpl/default.php</filename>
         <filename>tmpl/index.html</filename>
+        <filename>css/scroll.css</filename>
     </files>
     <config>
     </config>
